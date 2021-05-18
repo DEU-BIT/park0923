@@ -1,6 +1,3 @@
-from typing import ByteString
-
-
 value = int(input("숫자 하나를 입력하세요 : "))
 print(value)
 
